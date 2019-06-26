@@ -1,0 +1,38 @@
+.customize-control-title-zblack{
+	display: block;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+	margin-top: 8px;
+	letter-spacing: 1.75px;
+}
+.customize-control-description-zblack span {
+    display: block;
+    margin-top: 12px;
+}
+#accordion-section-zblack_help .accordion-section-title{
+	background-color: #23ade0;
+	color: #fff;
+}
+#accordion-section-zblack_help .accordion-section-title:hover, #accordion-section-zblack_help .accordion-section-title:focus{
+	background-color: #23ade0 !important;
+	color: #fff !important;
+	opacity: .8;
+}
+.zblack-help-sp {
+    font-size: 10px;
+    line-height: 1.5;
+    color: #fff;
+    padding: 3px 15px;
+    letter-spacing: 1px;
+    background: #008ec2;
+    text-transform: uppercase;
+    min-width: 130px;
+    display: inline-block;
+    text-decoration: none;
+}
+.zblack-help-sp:hover,.zblack-help-sp:focus {
+	background: #008ec2;
+	color: #fff;
+	opacity: .8;
+}
