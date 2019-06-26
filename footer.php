@@ -37,7 +37,7 @@
 			
 			<div id="footer-copyright">
 
-				<p class="copyright"><?php echo wp_kses_post(get_theme_mod('zblack_footer_copyright', 'Designed & Developed with <i style="color:#FF4A4A" class="fa fa-heart"></i> by ZThemes.net')); ?></p>
+				<!-- <p class="copyright"><?php echo wp_kses_post(get_theme_mod('zblack_footer_copyright', 'Designed & Developed with <i style="color:#FF4A4A" class="fa fa-heart"></i> by ZThemes.net')); ?></p> -->
 				
 			</div>
 			
